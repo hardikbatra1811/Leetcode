@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/hardikbatra1811/Leetcode/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardikbatra1811/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -66,5 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
