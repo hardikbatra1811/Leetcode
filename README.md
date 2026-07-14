@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0048-rotate-image) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/hardikbatra1811/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
