@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/hardikbatra1811/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra1811/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/hardikbatra1811/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hardikbatra1811/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/hardikbatra1811/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
