@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hardikbatra1811/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1695-maximum-erasure-value](https://github.com/hardikbatra1811/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hardikbatra1811/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/hardikbatra1811/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hardikbatra1811/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hardikbatra1811/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Bit Manipulation
 |  |
