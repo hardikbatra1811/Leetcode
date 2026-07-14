@@ -1,0 +1,15 @@
+class Solution {
+public:
+    vector<int> sequentialDigits(int low, int high) {
+    string w = "123456789";
+    vector<int> result;
+    for ( int i = 2; i <= 9 ; i++){
+        for( int j = 0; j <= w.size()-i; j++){
+            int num = stoi(w.substr(j,i));
+            if( num >= low && num <= high)
+            result.push_back(num);
+        }
+    }
+    return result;
+    }
+};
