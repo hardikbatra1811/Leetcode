@@ -109,8 +109,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/hardikbatra1811/Leetcode/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
