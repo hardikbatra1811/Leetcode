@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hardikbatra1811/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardikbatra1811/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/1922-count-good-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hardikbatra1811/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardikbatra1811/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
