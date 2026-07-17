@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hardikbatra1811/Leetcode/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/hardikbatra1811/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hardikbatra1811/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
