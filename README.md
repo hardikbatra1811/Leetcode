@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikbatra1811/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/hardikbatra1811/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/hardikbatra1811/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/hardikbatra1811/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1695-maximum-erasure-value](https://github.com/hardikbatra1811/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/hardikbatra1811/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/hardikbatra1811/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hardikbatra1811/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/hardikbatra1811/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/hardikbatra1811/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikbatra1811/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hardikbatra1811/Leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hardikbatra1811/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
