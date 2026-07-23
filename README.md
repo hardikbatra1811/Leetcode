@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hardikbatra1811/Leetcode/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/hardikbatra1811/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikbatra1811/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikbatra1811/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hardikbatra1811/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
