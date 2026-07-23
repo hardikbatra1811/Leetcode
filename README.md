@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikbatra1811/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/hardikbatra1811/Leetcode/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hardikbatra1811/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Sliding Window
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hardikbatra1811/Leetcode/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
