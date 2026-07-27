@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hardikbatra1811/Leetcode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/hardikbatra1811/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/hardikbatra1811/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/hardikbatra1811/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hardikbatra1811/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/hardikbatra1811/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/hardikbatra1811/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hardikbatra1811/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbatra1811/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/hardikbatra1811/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hardikbatra1811/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbatra1811/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardikbatra1811/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/hardikbatra1811/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hardikbatra1811/Leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Prefix Sum
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikbatra1811/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hardikbatra1811/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/hardikbatra1811/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/hardikbatra1811/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/hardikbatra1811/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/hardikbatra1811/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Queue
 |  |
 | ------- |
