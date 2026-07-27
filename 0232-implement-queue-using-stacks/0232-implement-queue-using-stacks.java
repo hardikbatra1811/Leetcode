@@ -1,4 +1,4 @@
-
+import java.util.Stack;
 
 class MyQueue {
     private Stack<Integer> stk1;
@@ -14,24 +14,20 @@ class MyQueue {
     }
     
     public int pop() {
-        shiftStacks();
+        peek();
         return stk2.pop();
     }
     
     public int peek() {
-        shiftStacks();
-        return stk2.peek();
-    }
-    
-    public boolean empty() {
-        return stk1.isEmpty() && stk2.isEmpty();
-    }
-
-    private void shiftStacks() {
         if (stk2.isEmpty()) {
             while (!stk1.isEmpty()) {
                 stk2.push(stk1.pop());
             }
         }
+        return stk2.peek();
+    }
+    
+    public boolean empty() {
+        return stk1.isEmpty() && stk2.isEmpty();
     }
 }
