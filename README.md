@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/hardikbatra1811/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikbatra1811/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikbatra1811/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hardikbatra1811/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikbatra1811/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/hardikbatra1811/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikbatra1811/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -239,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikbatra1811/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hardikbatra1811/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hardikbatra1811/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/hardikbatra1811/Leetcode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
